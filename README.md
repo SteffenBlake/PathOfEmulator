@@ -3,6 +3,12 @@ A bare bones PathOfExile.com API emulator
 
 See https://www.pathofexile.com/developer/docs/api-resources for documentation, though not all API endpoints are currently supported.
 
+# Download
+
+Get the latest release here: https://github.com/SteffenBlake/PathOfEmulator/releases/latest
+
+# API
+
 Currently supported endpoints:
 
 ## OAuth
